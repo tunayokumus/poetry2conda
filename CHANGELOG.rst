@@ -6,6 +6,14 @@ This document lists all important changes to poetry2conda.
 
 Version numbers follow `semantic versioning <http://semver.org>`_.
 
+
+0.4.1 (2022-05-20)
+------------------
+
+* Added option to chose pip as the default channel.
+* Include extras for pip dependencies.
+
+
 0.3.0 (2020-06-02)
 ------------------
 
